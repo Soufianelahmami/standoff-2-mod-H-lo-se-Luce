@@ -39,37 +39,37 @@
 },
 
   "my_data":[
-    {"title":"title1 ser",
-      "desc":"description1 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 1",
+      "desc":"standoff 2 mod Héloïse-Luce 1",
+      "photo":"https://iili.io/H40gb72.jpg"},
 
-    {"title":"title2 ser",
-      "desc":"description2 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 2",
+      "desc":"standoff 2 mod Héloïse-Luce 2",
+      "photo":"https://iili.io/H40gZg4.jpg"},
 
-    {"title":"title3 ser",
-      "desc":"description3 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 3",
+      "desc":"standoff 2 mod Héloïse-Luce 3",
+      "photo":"https://iili.io/H40gQ1f.jpg"},
 
-    {"title":"title4 ser",
-      "desc":"description4 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 4",
+      "desc":"standoff 2 mod Héloïse-Luce 4",
+      "photo":"https://iili.io/H40gDdl.jpg"},
 
-    {"title":"title5 ser",
-      "desc":"description5 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 5",
+      "desc":"standoff 2 mod Héloïse-Luce 5",
+      "photo":"https://iili.io/H40rHXe.jpgg"},
 
-    {"title":"title6 ser",
-      "desc":"description6 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 6",
+      "desc":"standoff 2 mod Héloïse-Luce 6",
+      "photo":"https://iili.io/H40gmeS.jpg"},
 
-    {"title":"title7 ser",
-      "desc":"description7 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 7",
+      "desc":"standoff 2 mod Héloïse-Luce 7",
+      "photo":"https://iili.io/H40gpm7.jpg"},
 
-    {"title":"title8 ser",
-      "desc":"description8 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+    {"title":"Mod Pack 8",
+      "desc":"standoff 2 mod Héloïse-Luce 8",
+      "photo":"https://iili.io/H40r9I9.jpg"}
   ]
 
 }
